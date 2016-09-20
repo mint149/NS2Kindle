@@ -1,0 +1,2 @@
+# NS2Kindle
+ニンジャスレイヤーのTogetterまとめをEpub形式にしてKindleで読むためのツール。
